@@ -27,6 +27,4 @@ print("==========================================\n")
 
 print("total so far: " + str(quizVars.quizTotal) + "\n")
 
-
-# after answer all the questions, figure out who your character is
 quizTally.total(quizVars.quizTotal)
