@@ -1,8 +1,8 @@
 from components import quizVars
+from PIL import Image
 
 
 def total(value):
-    # do some logic to see which character you selected
 
     if value == 4:
         quizVars.character = quizVars.characters[0]
